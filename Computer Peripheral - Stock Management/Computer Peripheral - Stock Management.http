@@ -1,0 +1,6 @@
+@Computer_Peripheral___Stock_Management_HostAddress = http://localhost:5128
+
+GET {{Computer_Peripheral___Stock_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
